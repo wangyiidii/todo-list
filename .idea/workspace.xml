@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="309fb172-e304-4c3f-a134-7debc24d56fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/TodoListApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/controller/OauthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/model/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/service/IOauthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/service/impl/OauthServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yiidii/todo/support/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.8.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.8.5/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CcPV8TeiqlaFl2v2WBpS2G3fS1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wangyiidii/project/java/me/todo-list",
+    "spring.configuration.checksum": "cd7da80b3614ddcdbd66083e5289a3a9"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.yiidii.todo.service.impl" />
+      <recent name="cn.yiidii.todo.service" />
+      <recent name="cn.yiidii.todo.mapper" />
+      <recent name="cn.yiidii.todo.model.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TodoListApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="todo-list" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yiidii.todo.TodoListApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="309fb172-e304-4c3f-a134-7debc24d56fd" name="Changes" comment="" />
+      <created>1659098921207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659098921207</updated>
+      <workItem from="1659098922672" duration="11647000" />
+      <workItem from="1659111876869" duration="3426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/local/apache-maven-3.8.5/repo/cn/yiidii/yiidii-web/1.0.0/yiidii-web-1.0.0.jar!/cn/yiidii/web/config/GlobalExceptionHandler.class</url>
+          <line>203</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
